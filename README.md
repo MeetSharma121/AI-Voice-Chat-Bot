@@ -1,4 +1,4 @@
-# AI Voice Chatbot with LLM & RAG for Healthcare
+# AI Voice Chatbot with LLM & RAG for Healthcare 💬🤖
 <img width="1000" height="200" alt="Screenshot 2025-08-19 at 2 26 52 AM" src="https://github.com/user-attachments/assets/656774ae-abad-4c4b-b8d3-22ef60a7c58f" />
 
 
@@ -6,7 +6,7 @@
 
 ## 🎯 Objective
 
-An AI Voice Assistant that leverages Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to act as a virtual medical receptionist. The assistant can answer patient queries, book appointments, and provide guideline-based responses while ensuring safety, accuracy, and compliance with healthcare standards.
+#### 💬🤖 An AI Voice Assistant that leverages 🧠 Large Language Models (LLMs) and 📚 Retrieval-Augmented Generation (RAG) to act as a 🏥👩‍⚕️ virtual medical receptionist. The assistant can ❓ answer patient queries, 📅 book appointments, and 📖✅ provide guideline-based responses while ensuring 🛡️ safety, 🎯 accuracy, and 📜⚖️ compliance with healthcare standards.
 
 ## 🏗️ Architecture Overview
 
