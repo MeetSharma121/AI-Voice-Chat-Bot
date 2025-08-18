@@ -23,6 +23,7 @@ An AI Voice Assistant that leverages Large Language Models (LLMs) and Retrieval-
 - Performance monitoring and logging
 - GDPR/NHS compliance and data de-identification
 ## 📸 Pictures 
+<img width="400" height="500" alt="Screenshot 2025-08-19 at 2 31 04 AM" src="https://github.com/user-attachments/assets/972dd02f-858d-4d44-9824-00cb3a6a8d07" />
 <img width="400" height="500" alt="Screenshot 2025-08-19 at 2 21 21 AM" src="https://github.com/user-attachments/assets/1c3b22e8-1189-43cb-983a-6eaca7193dde" />
 <img width="400" height="500" alt="Screenshot 2025-08-19 at 2 21 28 AM" src="https://github.com/user-attachments/assets/af7b0583-5a4e-497f-a387-ca8018c24438" />
 <img width="400" height="500" alt="Screenshot 2025-08-19 at 2 21 46 AM" src="https://github.com/user-attachments/assets/bb34a221-ec2c-4928-bfe1-1266edcc5848" />
