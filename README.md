@@ -1,4 +1,8 @@
 # AI Voice Chatbot with LLM & RAG for Healthcare
+<img width="1000" height="200" alt="Screenshot 2025-08-19 at 2 26 52 AM" src="https://github.com/user-attachments/assets/656774ae-abad-4c4b-b8d3-22ef60a7c58f" />
+
+
+
 
 ## 🎯 Objective
 
@@ -18,6 +22,13 @@ An AI Voice Assistant that leverages Large Language Models (LLMs) and Retrieval-
 - Multi-channel support (phone + web app)
 - Performance monitoring and logging
 - GDPR/NHS compliance and data de-identification
+## 📸 Pictures 
+<img width="500" height="500" alt="Screenshot 2025-08-19 at 2 21 21 AM" src="https://github.com/user-attachments/assets/1c3b22e8-1189-43cb-983a-6eaca7193dde" />
+<img width="500" height="500" alt="Screenshot 2025-08-19 at 2 21 28 AM" src="https://github.com/user-attachments/assets/af7b0583-5a4e-497f-a387-ca8018c24438" />
+<img width="500" height="500" alt="Screenshot 2025-08-19 at 2 21 46 AM" src="https://github.com/user-attachments/assets/bb34a221-ec2c-4928-bfe1-1266edcc5848" />
+
+
+
 
 ## 🚀 Quick Start
 
